@@ -1,0 +1,54 @@
+# 
+**/.vs/
+**/x64/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.iobj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directory
+build/
+Debug/
+Release/
+
+# Visual Studio files
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Xcode files
+*.xcodeproj
+*.xcworkspace
+
+# C++ specific files
+CMakeLists.txt.user
+CMakeCache.txt
+compile_commands.json
+
+# 
+*.aps
